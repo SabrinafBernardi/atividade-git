@@ -1,5 +1,0 @@
-dados = dict()
-dados["Nome"] = str(input("Digite seu nome:"))
-dados["Idade"] = int(input("Digite sua idade:"))
-dados["Sexo"] = str(input("Digite seu sexo:"))
-print(dados)
