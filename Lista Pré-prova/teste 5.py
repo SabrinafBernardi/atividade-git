@@ -1,0 +1,2 @@
+dados = {"a": 10} #Cria um dicionário com chave sendo "a" e o valor 10
+print(dados.get("b",5 )) #O dados.get pede para procurar o valor de "b", caso haja no dicionário deverá mostrar o valor de "b", caso não haja, mostra o valor definido como 5
